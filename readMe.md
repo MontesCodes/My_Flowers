@@ -2,7 +2,7 @@
 
 <!-- > Outline a brief description of your project. -->
 
-> Live demo [![CodePen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/montescodes/pen/OJzMEzoP). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [![CodePen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/montescodes/pen/OJzMEzo). <!-- If you have the project hosted somewhere, include the link here. -->
 
 <!-- > To view all of my Live Demos [_Click here_](https://codepen.io/montescodes). -->
 
