@@ -88,11 +88,12 @@ To do:
 
 ## Acknowledgements
 
-Give credit too.
+Give credit too. [Franks Laboratory](https://www.youtube.com/c/Frankslaboratory/about)
 
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+<!-- - This project was inspired by... -->
+
+- This project was based on [this tutorial](https://www.youtube.com/watch?v=ymmtEgp0Tuc&list=PLYElE_rzEw_v8TXJ_ITSSBP_ypUKfQ7K-&index=7&t=1020s).
+<!-- - Many thanks to... -->
 
 ## Contact
 
